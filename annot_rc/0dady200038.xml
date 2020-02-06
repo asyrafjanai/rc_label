@@ -1,0 +1,26 @@
+<annotation>
+	<folder>RegistrationCard</folder>
+	<filename>0dady200038.jpg</filename>
+	<path>C:\Users\asyra\Documents\notebooks\text recognition in image\image\RegistrationCard\0dady200038.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4030</width>
+		<height>3023</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>589</xmin>
+			<ymin>336</ymin>
+			<xmax>1943</xmax>
+			<ymax>1824</ymax>
+		</bndbox>
+	</object>
+</annotation>

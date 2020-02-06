@@ -1,0 +1,26 @@
+<annotation>
+	<folder>RegistrationCard</folder>
+	<filename>0dGkg193333.jpg</filename>
+	<path>C:\Users\asyra\Documents\notebooks\text recognition in image\image\RegistrationCard\0dGkg193333.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4594</width>
+		<height>3445</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>992</xmin>
+			<ymin>722</ymin>
+			<xmax>3759</xmax>
+			<ymax>3213</ymax>
+		</bndbox>
+	</object>
+</annotation>
