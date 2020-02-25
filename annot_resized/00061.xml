@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image_resized</folder>
+	<filename>00061.jpg</filename>
+	<path>C:\Users\asyra\Documents\notebooks\rc_label\image_resized\00061.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>112</ymin>
+			<xmax>411</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+</annotation>
